@@ -1,4 +1,3 @@
-# Theme-Switcher-CSS
 <h1 align="center">Theme Switcher CSS</h1>
 <h3 align="center">I hope You Like It </h3>
 
