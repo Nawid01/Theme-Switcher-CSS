@@ -3,12 +3,6 @@
 
 [Theme Switcher.webm](https://github.com/Nawid01/Theme-Switcher-CSS/assets/146708733/88ec6713-5632-4efb-be4e-b34fcafe1eca)
 
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawid01&label=Profile%20views&color=0e75b6&style=flat" alt="nawid01" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
